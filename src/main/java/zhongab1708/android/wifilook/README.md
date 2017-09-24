@@ -1,5 +1,4 @@
 App main source
 
-It still testing, keep update now
-
-2017-09-04
+It still testing, stopped update
+Not suppoert now
